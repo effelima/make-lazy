@@ -1,6 +1,6 @@
 # Make Lazy 🦥
 
-**Automation Toolkit for Productivity-Challenged Developers**
+**Automation Toolkit for Developers**
 
 ## Installation
 
